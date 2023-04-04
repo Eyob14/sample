@@ -1,0 +1,2 @@
+def applicant():
+    pass
